@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @OkotPascal
-- 👀 I’m interested in the avaialable learning and job opportunities here at GitHub
-- 🌱 I’m currently learning data science 
-- 💞️ I’m looking to collaborate on data science related aspects which are at microsoft and other organisations 
-- 📫 How to reach me: okotpascal5@gmail.com
+I'm a Data Scientist with expertise in analyzing and interpreting complex data to drive meaningful insights, I am passionate about using data to tell compelling stories and support strategic decision-making.  
+
+My technical stack includes:  
+- Excel: Advanced analytics, data cleaning, and visualization.  
+- Power BI: Interactive dashboards and business intelligence reporting.  
+- SQL: Data extraction, transformation, and database management.  
+- Python: Data wrangling, machine learning, and automation.
+
+- okotpascal5@gmail.com
 
 <!---
 OkotPascal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
