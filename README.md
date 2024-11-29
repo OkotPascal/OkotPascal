@@ -6,7 +6,7 @@ My technical stack includes:
 - SQL: Data extraction, transformation, and database management.  
 - Python: Data wrangling, machine learning, and automation.
 
-- okotpascal5@gmail.com
+okotpascal5@gmail.com
 
 <!---
 OkotPascal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
